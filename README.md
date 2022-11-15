@@ -86,7 +86,7 @@
 
 ### 📊 My Github Stats
 <p align="center">
-    <a href="https://github.com/mushlihun/github-readme-streak-stats">
+    <a href="https://streak-stats.demolab.com/?user=mushlihun&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mushlihun's streak" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mushlihun&theme=deuteranopia-friendly-theme&hide_border=true&border_radius=5)](https://git.io/streak-stats)"/>
     </a>
 </p>

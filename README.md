@@ -74,20 +74,12 @@
   <code><a href="https://github.com/facebook/jest"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="42px" height="42px"/></a></code>
    <code><a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="42px" height="42px"/></a></code>
   <code><a href="https://github.com/features/actions"><img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="42px" height="42px"/></a></code>
-    
-    
-    
-    
-    
-
-    
-    
 </p>
 
 ### 📊 My Github Stats
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mushlihun's streak" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mushlihun&theme=deuteranopia-friendly-theme&hide_border=true&border_radius=5)](https://git.io/streak-stats)"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mushlihun's streak" src="https://github-readme-streak-stats.herokuapp.com?user=mushlihun&theme=deuteranopia-friendly-theme&hide_border=true&border_radius=5"/>
     </a>
 </p>
 

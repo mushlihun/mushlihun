@@ -91,7 +91,7 @@
     </a>
 </p>
 
-[![Ashutosh's github activity graph](https://https://activity-graph.herokuapp.com/graph?username=mushlihun&theme=xcode)]
+[![Mushlihun's github activity graph](https://https://activity-graph.herokuapp.com/graph?username=mushlihun&theme=xcode)](https://github.com/mushlihun/github-readme-activity-graph)
 
     
   ### 📛 Badges

@@ -96,8 +96,8 @@
     
   ### 📛 Badges
 [![@mushlihun's Holopin board](https://holopin.me/mushlihun)](https://holopin.io/@mushlihun)
-<img src="https://github.com/mushlihun/mushlihun/blob/main/sertifikat.JPG" width="50px" height="50px">
-<img src="https://github.com/mushlihun/mushlihun/blob/main/code.gif" width="auto" height="auto">
+<img src="https://github.com/mushlihun/mushlihun/blob/main/sertifikat.JPG" width="50%" height="50%">
+<img src="https://github.com/mushlihun/mushlihun/blob/main/code.gif" width="50%" height="50%">
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> Connect with me

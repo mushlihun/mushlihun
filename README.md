@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/mushlihun/mushlihun/">
-  <img  src="https://github.com/mushlihun/mushlihun/blob/main/resources/img/grid-snake.gif"
+  <img  src="https://github.com/mushlihun/mushlihun/blob/main/grid-snake.gif"
        alt="snake" /></a>
 </div>
 
@@ -86,7 +86,7 @@
 
 ### 📊 My Github Stats
 <p align="center">
-    <a href="https://github-readme-streak-stats.herokuapp.com?user=mushlihun&theme=deuteranopia-friendly-theme&hide_border=true&border_radius=5">
+    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mushlihun's streak" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mushlihun&theme=deuteranopia-friendly-theme&hide_border=true&border_radius=5)](https://git.io/streak-stats)"/>
     </a>
 </p>
@@ -96,7 +96,8 @@
     
   ### 📛 Badges
 [![@mushlihun's Holopin board](https://holopin.me/mushlihun)](https://holopin.io/@mushlihun)
-<img src="https://github.com/mushlihun/mushlihun/blob/master/sertifikat.JPG" width="50px" height="50px">
+<img src="https://github.com/mushlihun/mushlihun/blob/main/sertifikat.JPG" width="50px" height="50px">
+<img src="https://github.com/mushlihun/mushlihun/blob/main/code.gif" width="auto" height="auto">
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> Connect with me

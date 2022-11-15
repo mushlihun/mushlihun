@@ -3,8 +3,8 @@
 <h3 align="left">Analyst Programmer | Web Developer | Graphic Designer</h3>
 
 <div align="center">
-  <a href="https://github.com/mushlihun/lihun/">
-  <img  src="https://github.com/mushlihun/lihun/blob/main/resources/img/grid-snake.gif"
+  <a href="https://github.com/mushlihun/mushlihun/">
+  <img  src="https://github.com/mushlihun/mushlihun/blob/main/resources/img/grid-snake.gif"
        alt="snake" /></a>
 </div>
 
@@ -96,7 +96,7 @@
     
   ### 📛 Badges
 [![@mushlihun's Holopin board](https://holopin.me/mushlihun)](https://holopin.io/@mushlihun)
-<img src="https://github.com/mushlihun/lihun/blob/master/sertifikat.JPG" width="auto" height="auto">
+<img src="https://github.com/mushlihun/mushlihun/blob/master/sertifikat.JPG" width="auto" height="auto">
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> Connect with me

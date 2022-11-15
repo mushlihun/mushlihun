@@ -86,12 +86,12 @@
 
 ### 📊 My Github Stats
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+    <a href="https://github.com/mushlihun/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mushlihun's streak" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mushlihun&theme=deuteranopia-friendly-theme&hide_border=true&border_radius=5)](https://git.io/streak-stats)"/>
     </a>
 </p>
 
-[![Mushlihun's github activity graph](https://https://activity-graph.herokuapp.com/graph?username=mushlihun&theme=xcode)](https://github.com/mushlihun/github-readme-activity-graph)
+[![Mushlihun's github activity graph](https://activity-graph.herokuapp.com/graph?username=mushlihun&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
     
   ### 📛 Badges

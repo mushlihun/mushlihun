@@ -1,6 +1,6 @@
 
 <h1 align="left">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" height="30px"/>, I'm Mushlihun !</h1>
-<h3 align="left">Analyst Programmer | Web Developer | Graphic Designer</h3>
+<h3 align="left">Analyst Programmer | Mobile & Web Developer | Graphic Designer</h3>
 
 <div align="center">
   <a href="https://github.com/mushlihun/mushlihun/">

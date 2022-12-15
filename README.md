@@ -7,23 +7,22 @@
   <img  src="https://github.com/mushlihun/mushlihun/blob/main/grid-snake.gif"
        alt="snake" /></a>
 </div>
-
  
 ### 🙋‍♂️ About Me
 <!--  <img align="right" alt="GIF" height="100px" width="100px" src="code.gif" /> -->
-
 - 🔭 I’m currently as **Analyst Programmer**
-
 - 🌱 I’m currently learning **Web and Mobile**
-
-<!-- - 👨‍💻 All of my projects are available at **** -->
-
+- 👨‍💻 All of my projects are available at **[here](https://github.com/mushlihun)**
 - 📫 Reach me at **mushlihun@live.com**
-
 - ⚡ Fun fact **I like to** read books and write jokes
-
 - 🤝  I love to interact with people, let's meet **[here](https://calendly.com/mushlihun/30min)** and talk on whichever topic you want.
-
+- :rocket:  &nbsp; looking for opportunities
+- :purple_heart: &nbsp; I intend to collaborate on projects using NodeJS
+<div align="center">
+  <a href="https://github.com/mushlihun">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mushlihun&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mushlihun&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ### 🚀 Languages and Tools:
 
@@ -83,8 +82,8 @@
     </a>
 </p>
 
-[![Mushlihun's github activity graph](https://activity-graph.herokuapp.com/graph?username=mushlihun&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+(~`^`~) My Github Activity Graph
+             ![Mushlihun's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mushlihun&theme=vue)
     
   ### 📛 Badges
 [![@mushlihun's Holopin board](https://holopin.me/mushlihun)](https://holopin.io/@mushlihun)

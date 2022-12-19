@@ -1,7 +1,16 @@
 
 <h1 align="left">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" height="30px"/>, I'm Mushlihun !</h1>
-<h3 align="left">Analyst Programmer | Mobile & Web Developer | Graphic Designer</h3>
 
+<p align="left">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">
+   Connect with me
+<a href="https://www.linkedin.com/in/mushlihun/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+<a href="mailto:lihunmush31@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+<a href="https://www.instagram.com/mushlihun/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+</p>
+<h3 align="left">Analyst Programmer | Mobile & Web Developer | Graphic Designer </h3>
+
+  
 <div align="center">
   <a href="https://github.com/mushlihun/mushlihun/">
   <img  src="https://github.com/mushlihun/mushlihun/blob/main/grid-snake.gif"
@@ -89,17 +98,6 @@
 [![@mushlihun's Holopin board](https://holopin.me/mushlihun)](https://holopin.io/@mushlihun)
 <img src="https://github.com/mushlihun/mushlihun/blob/main/sertifikat.JPG" width="50%" height="50%">
 <img src="https://github.com/mushlihun/mushlihun/blob/main/code.gif" width="45%" height="45%">
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> Connect with me
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/mushlihun/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-<a href="mailto:lihunmush31@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-    <a href="https://www.instagram.com/mushlihun/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-</p>
-  
-
   <div align="center">
   
    ![](https://visitor-badge.glitch.me/badge?page_id=mushlihun.mushlihun&left_color=blue&right_color=red)

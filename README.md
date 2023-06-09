@@ -1,4 +1,5 @@
 <a href="https://www.paypal.me/mushlihun"><img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="paypal"/></a>
+[![GitHub: @Refaltor77](https://img.shields.io/github/followers/Refaltor77?label=follow&style=social)](https://github.com/Refaltor77)
 <h1 align="left">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" height="30px"/>, I'm Mushlihun
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">
    connect with me
@@ -12,7 +13,7 @@
   <img  src="https://github.com/mushlihun/mushlihun/blob/main/grid-snake.gif"
        alt="snake" /></a>
 </div>
- 
+
 ### 🙋‍♂️ About Me
 <!--  <img align="right" alt="GIF" height="100px" width="100px" src="code.gif" /> -->
 - 🔭 I’m currently as **Analyst Programmer**
@@ -88,7 +89,7 @@
 </p>
 
 (~`^`~) My Github Activity Graph
-             [![Mushlihun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mushlihun&theme=vue)](https://github.com/mushlihun/mushlihun)
+[![Mushlihun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mushlihun&theme=vue)](https://github.com/mushlihun/mushlihun)
     
   ### 📛 Badges
 [![@mushlihun's Holopin board](https://holopin.me/mushlihun)](https://holopin.io/@mushlihun)
@@ -97,5 +98,4 @@
   <div align="center">
   
    ![](https://visitor-badge.glitch.me/badge?page_id=mushlihun.mushlihun&left_color=blue&right_color=red)
-  
   </div>

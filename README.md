@@ -88,7 +88,7 @@
 </p>
 
 (~`^`~) My Github Activity Graph
-             ![Mushlihun's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mushlihun&theme=vue)
+             [![Mushlihun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mushlihun&theme=vue)](https://github.com/mushlihun/mushlihun)
     
   ### 📛 Badges
 [![@mushlihun's Holopin board](https://holopin.me/mushlihun)](https://holopin.io/@mushlihun)

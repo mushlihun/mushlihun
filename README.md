@@ -21,7 +21,7 @@
 - 👨‍💻 All of my projects are available at **[here](https://github.com/mushlihun?tab=repositories)**
 - 📫 Reach me at **mushlihun@live.com**
 - ⚡ Fun fact **I like to** read books and write jokes
-- 🤝  I love to interact with people, let's meet **[here](https://calendly.com/mushlihun/30min)** and talk on whichever topic you want.
+- 🤝  I love to interact with people, let's meet **[here](https://calendly.com/mushlihun)** and talk on whichever topic you want.
 - :rocket:  &nbsp; looking for opportunities
 - :purple_heart: &nbsp; I intend to collaborate on projects using NodeJS
 <div align="center">

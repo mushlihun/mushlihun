@@ -1,4 +1,4 @@
-<a href="https://www.paypal.me/mushlihun"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="paypal"/></a>
+<a href="https://www.paypal.me/mushlihun"><img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="paypal"/></a>
 <h1 align="left">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" height="30px"/>, I'm Mushlihun
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">
    connect with me

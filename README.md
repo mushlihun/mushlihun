@@ -18,7 +18,7 @@
 <!--  <img align="right" alt="GIF" height="100px" width="100px" src="code.gif" /> -->
 - 🔭 I’m currently as **Analyst Programmer**
 - 🌱 I’m currently learning **Web and Mobile**
-- 👨‍💻 All of my projects are available at **[here](https://github.com/mushlihun)**
+- 👨‍💻 All of my projects are available at **[here](https://github.com/mushlihun?tab=repositories)**
 - 📫 Reach me at **mushlihun@live.com**
 - ⚡ Fun fact **I like to** read books and write jokes
 - 🤝  I love to interact with people, let's meet **[here](https://calendly.com/mushlihun/30min)** and talk on whichever topic you want.
